@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crossword/static/css/main.490620df.css",
+    "main.js": "/react-crossword/static/js/main.99327794.js",
+    "index.html": "/react-crossword/index.html",
+    "main.490620df.css.map": "/react-crossword/static/css/main.490620df.css.map",
+    "main.99327794.js.map": "/react-crossword/static/js/main.99327794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490620df.css",
+    "static/js/main.99327794.js"
+  ]
+}
